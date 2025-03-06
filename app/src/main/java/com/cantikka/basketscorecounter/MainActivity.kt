@@ -68,3 +68,4 @@ class MainActivity : AppCompatActivity() {
         skorB.text = viewModel.scoreB.toString()
     }
 }
+
